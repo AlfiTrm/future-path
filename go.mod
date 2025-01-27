@@ -1,6 +1,6 @@
 module future-path
 
-go 1.15.0
++heroku goVersion go1.15
 
 require (
 	github.com/gorilla/sessions v1.1.1
