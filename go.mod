@@ -1,6 +1,6 @@
 module future-path
 
-go 1.20.0
+go 1.20.7
 
 require (
 	github.com/gorilla/sessions v1.1.1
