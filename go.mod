@@ -1,6 +1,6 @@
 module future-path
 
-go 1.22
+go1.22
 
 toolchain go1.21.1
 
