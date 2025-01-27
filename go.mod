@@ -7,7 +7,7 @@ require (
 )
 
 require (
-	github.com/bytedance/sonic/loader v0.2.1 // indirect
+	github.com/bytedance/sonic/loader v0.2.0 // indirect
 	cloud.google.com/go/compute/metadata v0.3.0 // indirect
 	github.com/gorilla/context v1.1.1 // indirect
 	github.com/gorilla/mux v1.6.2 // indirect
